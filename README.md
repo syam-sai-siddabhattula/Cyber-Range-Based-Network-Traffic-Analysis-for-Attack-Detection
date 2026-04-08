@@ -13,7 +13,9 @@ The environment enables controlled simulation of:
 ## Cyber Range Architecture
 
 📄 **Network Map (Detailed Architecture):**  
-[View Cyber Range Network Map](./Cyber%20Range%20Network%20Map.pdf)
+![Cyber Range Architecture](./Cyber%20Range%20Netwrok%20Map_page-0001.jpg)
+
+*Figure: Cyber range architecture showing segmented network zones and attack simulation paths.*
 
 The cyber range is built using a segmented network model consisting of:
 
