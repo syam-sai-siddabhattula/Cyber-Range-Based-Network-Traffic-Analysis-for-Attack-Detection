@@ -10,7 +10,11 @@ The environment enables controlled simulation of:
 
 ---
 
-## Architecture
+## Cyber Range Architecture
+
+📄 **Network Map (Detailed Architecture):**  
+[View Cyber Range Network Map](./Cyber%20Range%20Network%20Map.pdf)
+
 The cyber range is built using a segmented network model consisting of:
 
 - **WAN (External Network)**
@@ -73,3 +77,44 @@ Key observations:
 https://proxmox.ears-up-cybersec.com/
 
 ### Credentials (View Only)
+User Name:
+Password:
+
+
+> ⚠️ Note: Access is restricted to monitoring purposes only.
+
+---
+
+## How to Use
+1. Log in to Proxmox using the above link
+2. Navigate to virtual machines
+3. Observe network zones and running services
+4. Review traffic capture and attack simulation setup
+
+---
+
+## Project Highlights
+- Realistic enterprise network simulation
+- External vs Internal attack comparison
+- PCAP-based traffic analysis
+- Behavior-based anomaly detection
+
+---
+
+## Future Improvements
+- Machine learning-based anomaly detection
+- Real-time monitoring dashboards
+- Integration with SIEM tools
+
+---
+
+## Author
+**Syam Sai Siddabhattula**  
+Graduate Student, Saint Louis University  
+
+**Faculty Mentor:** Maria Weber  
+
+---
+
+## License
+This project is for academic and research purposes only.
